@@ -1,0 +1,4 @@
+aiohttp
+playwright
+axe-playwright-python
+beautifulsoup4
